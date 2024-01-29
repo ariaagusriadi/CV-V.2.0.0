@@ -67,7 +67,7 @@ html {
 
 body {
 	background-color: #ffffff;
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	color: #999999;
@@ -167,7 +167,7 @@ h4,
 h5,
 h6 {
 	color: #333333;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 700;
 	margin: 0 0 28px;
 	line-height: 1;
@@ -177,6 +177,7 @@ h6 {
 	font-family: "America-Captain";
 	src: url("fonts/American\ Captain.ttf");
   }
+  
 
 .h1,
 h1 {
@@ -264,7 +265,7 @@ p {
 
 .italic {
 	font-style: italic;
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .break-word {
@@ -301,11 +302,11 @@ p {
 }
 
 .font-heading {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .font-body {
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 .font-18 {
@@ -1406,7 +1407,7 @@ section {
     #BUTTONS
 \*------------------------------------*/
 .btn {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	position: relative;
 	z-index: 2;
 	font-size: 12px;
@@ -1627,7 +1628,7 @@ section {
 \*------------------------------------*/
 .form-control {
 	color: #bdbdbd;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	line-height: 45px;
@@ -1687,7 +1688,7 @@ textarea.form-control {
     #Heading
 \*------------------------------------*/
 .heading .heading--title {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	color: #222222;
 	font-size: 36px;
 	font-weight: 400;
@@ -1792,7 +1793,7 @@ textarea.form-control {
 }
 
 .navbar-nav > li > a {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: 400;
@@ -2155,7 +2156,7 @@ li a:hover,
 
 .hero .hero--headline {
 	color: #ffffff;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 45px;
 	font-weight: 400;
 	line-height: 57px;
@@ -2164,11 +2165,12 @@ li a:hover,
 
 .hero .hero--bio {
 	color: #ffffff;
-	font-family: 'Lora', serif;
-	font-size: 18px;
-	font-weight: 400;
+	font-size: 28px;
+	font-weight: 500;
 	line-height: 28px;
 	margin-bottom: 53px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-style: italic;
 }
 
 .hero--action .form-control {
@@ -2339,7 +2341,7 @@ li a:hover,
 	font-size: 20px;
 	line-height: 35px;
 	color: #999999;
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-style: italic;
 	margin-bottom: 29px;
 }
@@ -2382,7 +2384,7 @@ li a:hover,
 }
 
 .feature-panel .feature--content h3 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	color: #333333;
 	font-size: 18px;
 	font-weight: 400;
@@ -2859,7 +2861,7 @@ li a:hover,
 }
 
 .landing-hero p {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 18px;
 	line-height: 27px;
 }
@@ -3112,7 +3114,7 @@ li a:hover,
 
 .skills .progress-title .title {
 	color: #333;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -3122,7 +3124,7 @@ li a:hover,
 .skills .progress-title .value {
 	float: right;
 	color: #333;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 12px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -3156,7 +3158,7 @@ li a:hover,
 
 .portfolio-filter ul li a {
 	font-size: 16px;
-	font-family: 'Lora', serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	text-transform: capitalize;
 	color: #999999;
 	font-weight: 400;
@@ -3397,7 +3399,7 @@ li a:hover,
 }
 
 .countdown-amount {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto Condensed', sans-serif;
 	color: #ffffff;
 	font-size: 70px;
 	font-weight: 700;
