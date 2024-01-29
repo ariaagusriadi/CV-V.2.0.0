@@ -173,6 +173,11 @@ h6 {
 	line-height: 1;
 }
 
+@font-face {
+	font-family: "America-Captain";
+	src: url("fonts/American\ Captain.ttf");
+  }
+
 .h1,
 h1 {
 	font-size: 52px;
