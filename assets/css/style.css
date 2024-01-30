@@ -1758,6 +1758,7 @@ textarea.form-control {
 	max-width: 100%;
 	height: auto;
 	line-height: 100px;
+	margin-left: 10px;
 }
 
 .navbar-nav:not(.nav-pos-right) {
